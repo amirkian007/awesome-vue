@@ -1517,6 +1517,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [v-dropdown-menu](https://github.com/RadKod/v-dropdown-menu) - Customizable dropdown menu plugin for vuejs. SSR supported.
 - [vue-bottom-sheet](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
 - [SDropdown](https://github.com/storinka/dropdown) - Highly customizable, simple and modern Vue 3 dropdown component.
+- [vue-awesome-sidebar](https://github.com/amirkian007/vue-awesome-sidebar) - A Modern and Fast sidebar Menu component for vue(3x).
 
 #### Minus Plus Input
 
